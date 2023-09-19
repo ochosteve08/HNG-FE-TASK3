@@ -14,6 +14,7 @@ const GalleryList = [
     id: 1,
     title: "Family",
     img: family,
+    tags: ["nature", "landscape"],
   },
   {
     id: 2,
